@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nigasa12@gmail.com)](mailto:nigasa12@gmail.com)
 
 ### Engineering for comfortable development
-- 🤔 I'm **DevOps Engineer** (who want to create a comfortable development environment.)
+- 🤔 I'm **DevOps Engineer**
 - 🔭 I’m currently working on [SpaceONE](https://www.spaceone.org/)
 
 ![GeunjeLEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunjeLEE&show_icons=true&theme=highcontrast)
