@@ -1,5 +1,4 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Chromecast&link=https://velog.io/@nigasa12)](https://velog.io/@nigasa12)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/nigasa12)](https://www.facebook.com/nigasa12)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nigasa12@gmail.com)](mailto:nigasa12@gmail.com)
 
 ### Engineering for comfortable development
