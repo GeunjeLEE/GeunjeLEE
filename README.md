@@ -3,7 +3,7 @@
 
 ### Engineering for comfortable development
 - 🤔 I'm **DevOps Engineer**
-- 🔭 I’m currently working on [SpaceONE](https://www.spaceone.org/)
+- 🔭 I’m currently working on SpaceONE team is developing a CMP open source project called [Cloudforet](https://www.cloudforet.io/).
 
 ![GeunjeLEE's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunjeLEE&show_icons=true&theme=nightowl)
 <!--
